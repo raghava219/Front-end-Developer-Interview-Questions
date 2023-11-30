@@ -5,9 +5,16 @@ permalink: /questions/general-questions/index.html
 ---
 
 * What did you learn yesterday/this week?
-* What excites or interests you about coding?
+* **My Response:** 27/11/2023 to 03/11/2023:
+* This week I have learned about the migration of contents of GS from "GCP to AWS".
+* I learned about the Fibonacci series this week.
+* * What excites or interests you about coding?
+* **My Response:** To improve my thinking ability.
+*  
 * What is a recent technical challenge you experienced and how did you solve it?
+* **My Response:** Migration of GS from GCP to AWS.
 * When building a new web site or maintaining one, can you explain some techniques you have used to increase performance?
+* 
 * Can you describe some SEO best practices or techniques you have used lately?
 * Can you explain any common techniques or recent issues solved in regards to front-end security?
 * What actions have you personally taken on recent projects to increase maintainability of your code?
